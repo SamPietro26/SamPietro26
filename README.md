@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @SamPietro26
-- 👀 I’m interested in Android, PHP and Bank Aplication
-- 🌱 I’m currently learning Android Games
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @SamuelPietro (and @SamuelBarbosa in some places)
+- 👀 I’m interested in PHP, MVC and Bank Aplication
+- 🌱 I’m currently learning Senior PHP
+- 💞️ I’m looking to collaborate on Base PHP com MVC
+- 📫 How to reach me -> samuelpietro.b@gmail.com
 
 <!---
-SamPietro26/SamPietro26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+this is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
