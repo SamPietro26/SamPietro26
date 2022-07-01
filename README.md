@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SamuelPietro (and @SamuelBarbosa in some places)
 - 👀 I’m interested in PHP, MVC and Bank Aplication
-- 🌱 I’m currently learning Laravel + Vue.js
-- 💞️ I’m looking to collaborate on crud LB
+- 🌱 I’m currently learning Laravel 
+- 💞️ I’m looking to collaborate on DoandoInfancia.com.br
 - 📫 How to reach me -> samuelpietro.b@gmail.com
 
 <!---
