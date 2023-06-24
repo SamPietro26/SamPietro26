@@ -1,7 +1,7 @@
 ## 👋 Olá, sou Samuel Pietro, desenvolvedor PHP!
 #### (ou Samuel Barbosa em alguns lugares).
 
-- 👨‍💻 Atualmente faço parte da equipe de desenvolvimento do portal SESI Educação e sou criador da primeira metodologia de implementação do Prontuário Eletrônico do Cidadão. 
+- 👨‍💻 Integrante da equipe de desenvolvimento do portal SESI Educação e sou criador da primeira metodologia de implementação do Prontuário Eletrônico do Cidadão. 
 - 😍 Desde 2015 viciado em “codar”.
 - 👨‍🏫 Atualmente estou focado no desenvolvimento do pFrame
 - 💞️ Ajude uma causa social em [AMA](https://ama.org.br/colabore/)
